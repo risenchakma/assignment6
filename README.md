@@ -1,1 +1,2 @@
-# assignment6
+# project practice
+https://risenchakma.github.io/assignment6/
